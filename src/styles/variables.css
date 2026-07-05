@@ -1,0 +1,19 @@
+:root {
+  --color-bg: #f8f3ea;
+  --color-bg-soft: #efe2cf;
+  --color-white: #ffffff;
+  --color-gold: #d8b97a;
+  --color-gold-hover: #c9a764;
+  --color-blue-soft: #ddeaf7;
+  --color-rose-beige: #d9b8a1;
+  --color-text: #3f3128;
+  --color-text-soft: #6b4f3a;
+  --color-border: rgba(63, 49, 40, 0.12);
+
+  --font-title: 'Cormorant Garamond', serif;
+  --font-body: 'Montserrat', sans-serif;
+
+  --container-width: 1200px;
+  --radius: 20px;
+  --shadow-soft: 0 10px 30px rgba(63, 49, 40, 0.08);
+}

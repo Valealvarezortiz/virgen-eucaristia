@@ -1,0 +1,14 @@
+.footer {
+  padding: 28px 0;
+  background-color: rgba(63, 49, 40, 0.04);
+  border-top: 1px solid rgba(63, 49, 40, 0.08);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  color: var(--color-text-soft);
+  font-size: 0.95rem;
+}
