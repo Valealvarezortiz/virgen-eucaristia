@@ -7,7 +7,7 @@ function Historia() {
         <div className="section-divider"></div>
 
         <p className="subtitle">
-          Un origen marcado por la providencia, la fe y el amor a Jesús Eucaristía.
+          Un origen marcado por la Providencia, la fe y el amor a Jesús Eucaristía.
         </p>
 
         <div className="historia-grid">
@@ -26,7 +26,7 @@ function Historia() {
             <h3 className="historia-titulo">Manifestación</h3>
             <p>
               La Madre de Dios se hizo conocer de forma sobrenatural a su hijo
-              predilecto, el padre Jorge A. Gandur, quien supo en su corazón de
+              predilecto, el Padre Jorge A. Gandur, quien supo en su corazón de
               la existencia de una imagen de la Virgen de la Eucaristía que estaba
               guardada, olvidada y que quería ser venerada.
             </p>
@@ -36,7 +36,7 @@ function Historia() {
           <div className="card historia-card">
             <h3 className="historia-titulo">Redescubrimiento</h3>
             <p>
-              Gracias a la intervención de la Virgen y del padre Gandur, la imagen
+              Gracias a la intervención de la Virgen y del Padre Gandur, la imagen
               salió a la luz, luego de haber permanecido guardada durante 15 años.
             </p>
           </div>

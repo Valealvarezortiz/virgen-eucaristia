@@ -8,7 +8,7 @@ function Hero() {
           <p className="hero-kicker">Devoción · Adoración · Fe</p>
           <h1>Virgen de la Eucaristía</h1>
           <p className="hero-text">
-            Madre Santísima, templo vivo del Cuerpo de Cristo, guía nuestros
+            Madre Santísima, Templo Vivo del Cuerpo de Cristo, guía nuestros
             corazones hacia la adoración, la paz y el amor profundo a Jesús
             Eucaristía.
           </p>

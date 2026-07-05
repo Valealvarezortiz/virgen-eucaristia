@@ -51,3 +51,12 @@
     gap: 14px;
   }
 }
+.navbar-menu button,
+.navbar-brand {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  padding: 0;
+}
