@@ -12,7 +12,7 @@ function Galeria() {
     },
     {
       id: 3,
-      src: '/images/imagen.6.jpeg',
+      src: '/images/imagen6nueva.jpg',
       alt: 'Imagen histórica de la Virgen de la Eucaristía',
     },
     {
@@ -22,12 +22,12 @@ function Galeria() {
     },
     {
       id: 5,
-      src: '/images/imagen.4.jpeg',
+      src: '/images/virgeneucaristia16.jpg',
       alt: 'Imagen religiosa de la Virgen de la Eucaristía',
     },
     {
       id: 6,
-      src: '/images/imagen.5.jpeg',
+      src: '/images/imagen5nueva.jpg',
       alt: 'Fotografía vinculada a la historia de la Virgen de la Eucaristía',
     },
   ]

@@ -60,3 +60,21 @@
   color: inherit;
   padding: 0;
 }
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbar-logo {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  transition: transform .25s ease;
+}
+
+.navbar-logo:hover {
+  transform: scale(1.05);
+}

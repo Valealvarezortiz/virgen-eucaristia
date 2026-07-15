@@ -22,7 +22,7 @@ function Hero() {
         <div className="hero-image-wrap fade-up">
           <div className="hero-glow"></div>
           <img
-             src="/images/imagen.2.jpeg"
+             src="/images/imagenoracion.jpg"
                 alt="Imagen de la Virgen de la Eucaristía"
                 className="hero-image"
           />

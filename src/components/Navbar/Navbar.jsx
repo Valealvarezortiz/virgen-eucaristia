@@ -4,8 +4,15 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="container navbar-container">
+
         <a href="/#inicio" className="navbar-brand">
-          Virgen de la Eucaristía
+          <img
+            src="/images/logo-navbar.webp.webp"
+            alt="Virgen de la Eucaristía"
+            className="navbar-logo"
+          />
+
+          <span>Virgen de la Eucaristía</span>
         </a>
 
         <nav>
@@ -17,6 +24,7 @@ function Navbar() {
             <li><a href="/#contacto">Contacto</a></li>
           </ul>
         </nav>
+
       </div>
     </header>
   )
