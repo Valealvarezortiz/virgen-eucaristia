@@ -3422,9 +3422,35 @@ Los médicos dijeron que aquello había sido un milagro y que ellos no tenían c
 El 30 de marzo Leo volvió a su casa. Los días 30 están especialmente dedicados a la Virgen de la Eucaristía, cuyo día es el 30 de octubre.
 
 Leo dice que la Virgen lo curó y desde entonces se hizo devoto de la Virgen de la Eucaristía.`
+},
+
+{
+  id: 104,
+  nombre: "La recuperación de Sergio",
+  categoria: "Sanación",
+  destacado: false,
+  resumen:
+    "Elena Morales comparte cómo su hijo Sergio atravesó un difícil tratamiento por leucemia linfoblástica. En medio de la enfermedad, la familia encomendó su camino a la Virgen de la Eucaristía y, tras un trasplante de médula y un largo proceso, recibió el alta completamente sano.",
+  completo: `Les cuento que a mi hijo, Sergio José Renzo Godoy Morales, lo internaron en enero de 2024 con un diagnóstico de leucemia linfoblástica.
+
+ El 25 de marzo de 2024 visité la casa de Susy Yanzón Camargo, en San Juan, porque me habían comentado que allí se encontraba la imagen de Nuestra Señora de la Eucaristía y que, por su intercesión, varias personas con enfermedades oncológicas habían recibido gracias especiales.
+
+ El diagnóstico fue un terremoto para toda nuestra familia, pero la Santa Madre de Dios, la Virgen de la Eucaristía, nos acompañó y sostuvo en todo momento.
+
+ Comenzaron las transfusiones de sangre, plasma y plaquetas. Gracias a Dios, nunca faltaron donantes; incluso mis otros hijos también colaboraron donando sangre.
+
+ n septiembre lo trasladaron a Buenos Aires porque los médicos necesitaban equilibrar mejor el tratamiento de quimioterapia debido a su contextura física. Allí realizaron los estudios de compatibilidad y dos de sus hermanos resultaron compatibles para el trasplante.
+
+ El 18 de octubre, en el Hospital El Cruce, recibió un trasplante de médula gracias a uno de sus hermanos. Permaneció internado hasta diciembre, cuando, con la gracia de Dios, recibió el alta.
+
+ Continuó con controles ambulatorios hasta enero, momento en que pudo regresar a San Juan para reencontrarse con sus hijos. Actualmente sigue con controles en el Hospital Rawson y ya recibió el alta médica como paciente sano.
+
+ Su cabello volvió a crecer, recuperó peso y los médicos están muy felices con su evolución. Toda nuestra familia también está llena de alegría.
+
+ Damos infinitas gracias a Dios por el milagro recibido y a su Santa Madre, la Virgen de la Eucaristía, que nos acompañó y sostuvo durante todo este difícil peregrinar.
+
+— Elena Angelina Morales`
 }]
-
-
 
 
 
